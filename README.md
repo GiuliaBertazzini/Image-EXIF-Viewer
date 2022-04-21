@@ -13,8 +13,8 @@ folium | 0.12.1
 Once you've downloaded the project and installed all the packages required, run the following command in your terminal: 
 `python MainWindow.py`
 
-This is what you will see: \\
-!()
+This is what you will see:
+!(images/MainWindow)
 
 
 
