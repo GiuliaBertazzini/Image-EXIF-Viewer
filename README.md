@@ -4,6 +4,7 @@ A simple implementation of an Image and EXIF Metadata Viewer in PyQt5.
 ## Prerequisites
 
 Package | Version
+--- | ---
 Python | 3.8
 PyQt5 | 5.15.6
 Pillow | 8.4.0 
