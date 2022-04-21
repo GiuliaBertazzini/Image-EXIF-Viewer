@@ -14,7 +14,6 @@ Once you've downloaded the project and installed all the packages required, run 
 `python MainWindow.py`
 
 This is what you will see:
-!(/assets/images/MainWindow.png)
 
 
 
