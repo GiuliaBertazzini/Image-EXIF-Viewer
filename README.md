@@ -1,9 +1,20 @@
 # Image-EXIF-Viewer
-Implementation of an Image and EXIF Metadata Viewer as a polished Graphical User Interface, supporting a minimum of image viewing and EXIF tag visualization.
+A simple implementation of an Image and EXIF Metadata Viewer in PyQt5.
 
 ## Prerequisites
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+Package | Version
+--- | ---
+Python | 3.8
+--- | --- 
+PyQt5 | 5.15.6
+---| ---
+Pillow | 8.4.0 
+--- | ---
+folium | 0.12.1
+
+## Usage
+Once you've downloaded the project and installed all the packages required, run the following command in your terminal: 
+*['''python MainWindow.py''']
+
 
