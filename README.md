@@ -12,7 +12,7 @@ folium | 0.12.1
 
 ## Functionalities
 This GUI implements the following features:
-- **Visualization of images**: it allows to visualize multiple images (one at a time); once you've selected some images, you can visualize them and if you made a mistake in selecting them, you can open a new list of images, add some images to the already opened ones, close the current image which you're visualizing or close all the images. The GUI also implements controls for switching to next/previous image in the list.  
+- **Visualization of images**: it allows you to visualize multiple images (one at a time); once you've selected some images, you can visualize them and if you made a mistake in selecting them, you can open a new list of images, add some images to the already opened ones, close the current image which you're visualizing or close all the images. The GUI also implements controls for switching to next/previous image in the list.  
 - **Image rotation**: when you're visualizing your image, you can rotate it of 90 degrees (clockwise or counterclockwise).
 - **Rescaling**: if you change the dimension of the window, the image will properly scale (and also the tables containing the EXIF tags). 
 - **Visualization of image EXIF data**: it allows to properly see image EXIF, organized in a table (where there first column contains the tag name and the second one the value for the corresponding tag).
@@ -23,7 +23,7 @@ This GUI implements the following features:
 Once you've downloaded the project and installed all the packages required, run the following command in your terminal: <br>
 `python MainWindow.py`
 
-That's what you see:
+That's what you'll see:
 <p align="center"><img src=images/MainWindow.png width="60%"></p>
 
 When you click on the button, you will be able to choose your list of images (only images file will be shown). 
