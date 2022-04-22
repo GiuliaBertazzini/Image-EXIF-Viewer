@@ -45,7 +45,7 @@ Then, if you are interested on visualizing image EXIF data, you can click on "Vi
 
 As you can see, you will have a little preview of the current image on the left, and also two buttons, with lables PREVIOUS and NEXT, if you want to visualize EXIF tags of another image in the list. On the right, you will find a table containg the general information of the image (as filename, creation and mofication date, format, size and mode). <br>
 The EXIF tags have been divided in two parts, according to the [most common EXIF tags table](https://www.vcode.no/web/resource.nsf/ii2lnug/642.htm).
-Clicking on _Basic EXIF Tags_, it will be shown in a table the Baseline EXIF tags, which are those tags that are listed as part of the core of EXIF standards. That's how it looks like:
+Clicking on `Basic EXIF Tags`, it will be shown in a table the Baseline EXIF tags, which are those tags that are listed as part of the core of EXIF standards. That's how it looks like:
 
 <p align="center"><img src=images/basictag.png width="60%"></p>
 
@@ -55,7 +55,7 @@ On the contrary, if you click on `Other EXIF Tags`, it will be shown, always in 
 
 If there are too many tags, there is a scrollbar on the right to view all them. <br>
 
-Finally, if you click on _GPS Info_, if your image contains GPS Geolocation Tags in its EXIF tag set, it will be shown a map with a blue marker centered in the position where the photo was taken, as displayed below:
+Finally, if you click on `GPS Info`, if your image contains GPS Geolocation Tags in its EXIF tag set, it will be shown a map with a blue marker centered in the position where the photo was taken, as displayed below:
 
 <p align="center"><img src=images/gps.png width="60%"></p>
 
