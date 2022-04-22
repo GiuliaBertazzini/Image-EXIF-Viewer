@@ -49,7 +49,7 @@ Clicking on _Basic EXIF Tags_, it will be shown in a table the Baseline EXIF tag
 
 <p align="center"><img src=images/basictag.png width="60%"></p>
 
-On the contrary, if you click on _Other EXIF Tags_, it will be shown, always in a table, the Extension EXIT tags, which are those tags listed as part of EXIF features that may not be supported by all EXIF readers, according to the EXIF specification. That's the GUI: 
+On the contrary, if you click on `Other EXIF Tags`, it will be shown, always in a table, the Extension EXIT tags, which are those tags listed as part of EXIF features that may not be supported by all EXIF readers, according to the EXIF specification. That's the GUI: 
 
 <p align="center"><img src=images/tags.png width="60%"></p>
 
