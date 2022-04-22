@@ -15,7 +15,7 @@ This GUI implements the following features:
 - **Visualization of images**: it allows to visualize multiple images (one at a time); once you've selected some images, you can visualize them and if you made a mistake in selecting them, you can open a new list of images, add some images to the already opened ones, close the current image which you're visualizing or close all the images. The GUI also implements controls for switching to next/previous image in the list.  
 - **Image rotation**: when you're visualizing your image, you can rotate it of 90 degrees (clockwise or counterclockwise).
 - **Rescaling**: if you change the dimension of the window, the image will properly scale (and also the tables containing the EXIF tags). 
-- **Visualization of image EXIF data**: it allows to pproperly see image EXIF, organized in a table (where there first column contains the tag name and the second one the value for the corresponding tag).
+- **Visualization of image EXIF data**: it allows to properly see image EXIF, organized in a table (where there first column contains the tag name and the second one the value for the corresponding tag).
 - **Geolocalization**: if an image includes GPS Geolocation Tags in its EXIF tag set, you can visualize a map on the GUI, with a marker centered at the GPS location of the image.
 
 
