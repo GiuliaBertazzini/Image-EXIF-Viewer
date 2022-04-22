@@ -39,6 +39,14 @@ The GUI will show the first image in the center of the window. You can switch to
 - **Close all images**: you can close all the images of the list. The corresponding shortcut is CTRL+Shift+Q.
 - **Exit**: you can close the GUI. The corresponding shortcut is CTRL+E.
 
+Then, if you are interested on visualizing image EXIF data, you can click on "View Details"; you will be automatically redirected to the following page:
+
+<p align="center"><img src=images/generalInfo.png width="60%"></p>
+
+As you can see, you will have a little preview of the current image on the left, and also two buttons, with lables PREVIOUS and NEXT, if you want to visualize EXIF tags of another image in the list. On the right, you will find a table containg the general information of the image (as the filename, the creation and mofication date, the format, the size and the mode). 
+
+
+
 
 
 
