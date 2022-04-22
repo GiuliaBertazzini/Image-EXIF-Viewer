@@ -30,7 +30,7 @@ When you click on the button, you will be able to choose your list of images (on
 
 <p align="center"><img src=images/ImageViewer.png width="60%"></p>
 
-The GUI will show the first image in the center of the window. You can switch to the next/previous image using the controls on the image sides. If you click on "File", you will be able to choose an action, clicking on it (or you can use the corresponding shortcut): 
+The GUI will show the first image of your list in the center of the window. You can switch to the next/previous image using the controls on the image sides. If you click on "File", you will be able to choose an action, clicking on it (or you can use the corresponding shortcut): 
 - **Open new images**: you can open a completely new list of image, different from the first one you had chosen. The corresponding shortcut is CTRL+O.
 - **Add images**: you can add images to the current list. The corresponding shortcut is CTRL+N.
 - **Rotate 90° clockwise**: you will be able to rotate your image of 90 degrees clockwise. The corresponding shortcut is CTRL+R.
