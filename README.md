@@ -39,7 +39,7 @@ The GUI will show the first image of your list in the center of the window. You 
 - **Close all images**: you can close all the images of the list. The corresponding shortcut is `CTRL+Shift+Q`.
 - **Exit**: you can close the GUI. The corresponding shortcut is `CTRL+E`.
 
-Then, if you are interested on visualizing image EXIF data, you can click on "View Details"; you will be automatically redirected to the following page:
+Then, if you are interested on visualizing image EXIF data, you can click on `View Details`; you will be automatically redirected to the following page:
 
 <p align="center"><img src=images/generalInfo.png width="60%"></p>
 
