@@ -36,7 +36,7 @@ class EXIFWindow(object):
         switch_to_previous_image.setStyleSheet('''QPushButton {border: 2px solid black; border-radius: 20px; background-color: #313131; margin: auto 30px;} QPushButton:hover {background-color: #BB86FC;}''')
         switch_to_next_image.setStyleSheet('''QPushButton {border: 2px solid black; border-radius: 20px; background-color: #313131; margin: auto 30px;} QPushButton:hover {background-color: #BB86FC;}''')
 
-        #menuBar with actions: open new images, add new images, rotate 90° (clockwise and counterclockwise), close current image, close all images and quit from the GUI
+        #menuBar with actions: open new images, add new images, rotate 90° (clockwise and counterclockwise), close current image and close all images
         menubar = MainWindow.menuBar()
 
         #file menu actions
@@ -223,7 +223,8 @@ class EXIFWindow(object):
         self.pixmap = QPixmap(self.image)
         self.pixmap = self.pixmap.scaled(MainWindow.width()*5/7, MainWindow.height()*5/7, Qt.KeepAspectRatio)
         self.label.setPixmap(self.pixmap)
-        grid_layout.addWidget(self.label, 1, 1, -1, 3, alignment=Qt.AlignCenter)
+        self.label.setAlignment(Qt.AlignCenter)
+        #grid_layout.addWidget(self.label, 1, 1, -1, 3, alignment=Qt.AlignCenter)
         self.image_rotation = 0
 
     #set the page for when you click on "View details" to see the EXIF tags of the images
