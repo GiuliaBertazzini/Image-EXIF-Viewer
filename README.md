@@ -1,7 +1,7 @@
 # Image-EXIF-Viewer
 A simple implementation of an Image and EXIF Metadata Viewer in PyQt5.
 
-## Prerequisites
+## System Requirements
 
 Package | Version
 --- | ---
