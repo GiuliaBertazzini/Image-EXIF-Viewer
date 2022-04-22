@@ -11,10 +11,11 @@ Pillow | 8.4.0
 folium | 0.12.1
 
 ## Usage and functionalities
-Once you've downloaded the project and installed all the packages required, run the following command in your terminal: 
+Once you've downloaded the project and installed all the packages required, run the following command in your terminal: <br>
 `python MainWindow.py`
 
 This is what you will see:
+<p align="center"><img src=images/MainWindow.png width="60%"></p>
 
 
 
