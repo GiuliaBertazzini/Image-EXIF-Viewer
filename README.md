@@ -26,6 +26,8 @@ Once you've downloaded the project and installed all the packages required, run 
 That's what you see:
 <p align="center"><img src=images/MainWindow.png width="60%"></p>
 
+When you click on the button, you will be able to choose your list of images (only images file )
+
 
 
 
