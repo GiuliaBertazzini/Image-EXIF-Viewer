@@ -43,7 +43,8 @@ Then, if you are interested on visualizing image EXIF data, you can click on "Vi
 
 <p align="center"><img src=images/generalInfo.png width="60%"></p>
 
-As you can see, you will have a little preview of the current image on the left, and also two buttons, with lables PREVIOUS and NEXT, if you want to visualize EXIF tags of another image in the list. On the right, you will find a table containg the general information of the image (as the filename, the creation and mofication date, the format, the size and the mode). 
+As you can see, you will have a little preview of the current image on the left, and also two buttons, with lables PREVIOUS and NEXT, if you want to visualize EXIF tags of another image in the list. On the right, you will find a table containg the general information of the image (as filename, creation and mofication date, format, size and mode). <br>
+The EXIF tags have been divided in two parts, according to the [most common EXIF tags table](https://www.vcode.no/web/resource.nsf/ii2lnug/642.htm)
 
 
 
