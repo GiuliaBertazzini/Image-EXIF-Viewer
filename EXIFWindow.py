@@ -36,7 +36,7 @@ class EXIFWindow(object):
         switch_to_previous_image.setStyleSheet('''QPushButton {border: 2px solid black; border-radius: 20px; background-color: #313131; margin: auto 30px;} QPushButton:hover {background-color: #BB86FC;}''')
         switch_to_next_image.setStyleSheet('''QPushButton {border: 2px solid black; border-radius: 20px; background-color: #313131; margin: auto 30px;} QPushButton:hover {background-color: #BB86FC;}''')
 
-        #menuBar with actions: open new images, add new images, rotate 90° (clockwise and counterclockwise), close current image and close all images
+        #menuBar with actions: open new images, add new images, rotate 90° (clockwise and counterclockwise), close current image, close all images and quit from the GUI
         menubar = MainWindow.menuBar()
 
         #file menu actions
