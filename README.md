@@ -3,7 +3,7 @@ A simple implementation of an Image and EXIF Metadata Viewer in PyQt5.
 
 ## System Requirements
 
-Package | Version
+<b>Package</b> | <b>Version</b>
 --- | ---
 Python | 3.8
 PyQt5 | 5.15.6
